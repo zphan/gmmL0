@@ -1,5 +1,5 @@
 # gmmL0
-Sparse Inverse Covariance Estimation Problems
+-- Sparse Inverse Covariance Estimation Problems -- 
 
 This site contains data files for the paper "On the Solution of L0-Constrained Sparse Inverse Covariance Estimation Problems" by Dzung Phan and Matt Menickelly   
 
@@ -19,3 +19,8 @@ true_inv_cov_Mat : the ground truth sparse inverse covariance matrix
 true_nnz         : the ground truth number of nonzeros in the inverse covariance matrix
 
 sample_cov_Mat   : the sample covariance
+
+## Example of using a dataset in Matlab
+
+>> load Chain500.mat
+
