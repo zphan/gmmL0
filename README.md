@@ -13,6 +13,9 @@ Emails: phandu@us.ibm.com and mmenickelly@anl.gov
 These Matlab data sets consist of:
 
 n                : the size of random variables 
+
 true_inv_cov_Mat : the ground truth sparse inverse covariance matrix
+
 true_nnz         : the ground truth number of nonzeros in the inverse covariance matrix
+
 sample_cov_Mat   : the sample covariance
