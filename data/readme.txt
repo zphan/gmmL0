@@ -1,1 +1,1 @@
-This folder contains datasets
+This folder contains synthetic and real-world datasets
