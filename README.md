@@ -6,6 +6,7 @@ This site contains data files for the paper "On the Solution of L0-Constrained S
 ## Authors
 
 Dzung Phan (IBM Research) and Matt Menickelly (Argonne National Laboratory)
+
 Emails: phandu@us.ibm.com and mmenickelly@anl.gov
 
 ## Data-set Description
