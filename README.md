@@ -1,4 +1,4 @@
-# gmmL0 - Sparse Inverse Covariance Estimation Problems -- 
+# gmmL0 - Sparse Inverse Covariance Estimation Problems  
 
 This site contains data files for the paper "On the Solution of L0-Constrained Sparse Inverse Covariance Estimation Problems" by Dzung Phan and Matt Menickelly   
 
